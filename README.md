@@ -1,1 +1,1 @@
-# bobo-autotiling
+# bobo-bspwm-dconf
